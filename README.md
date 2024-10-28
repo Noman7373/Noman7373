@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noman Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Passionate Frontend React.js Developer</h3>
 
 <img align = "right" margin-top = "100" alt = "coding-gif" height = "350" width = "500" src = "https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
