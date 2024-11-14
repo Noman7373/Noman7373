@@ -3,7 +3,7 @@
 
 <img align = "right" margin-top = "100" alt = "coding-gif" height = "350" width = "500" src = "https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noman7373&label=Profile%20views&color=0e75b6&style=flat" alt="noman7373" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noman7373&label=Profile%20views&color=0e75b6&style=flat" alt="noman7373" /></p>
 
 - 🌱 Passionate Front End **React.js**  Developer
 
