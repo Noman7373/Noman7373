@@ -24,7 +24,7 @@ I love solving problems, learning new technologies, and contributing to the deve
   <li><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" /></li>
 </ul>
 
-h3>Back-End</h3>
+<h3>Back-End</h3>
 <ul>
   <li><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" /></li>
   <li><img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge" /></li>
