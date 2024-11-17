@@ -10,14 +10,28 @@ I love solving problems, learning new technologies, and contributing to the deve
 🌐 Technologies I Work With
 
 Front-End
-Languages: HTML, CSS, JavaScript, TypeScript, Tailwind
 
-Frameworks: React, Angular
+
+
+
+
+
+
+
+
+
+
+
+
 
 Back-End
-Languages & Frameworks:
-Node.js
-Express.js
 
-Database:
-MongoDB
+
+
+
+
+
+
+
+
+---
