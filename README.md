@@ -4,7 +4,7 @@
 <p>
 Hi! I’m a passionate <strong>Full-Stack Developer in Progress</strong> 🌟. 
 I’ve completed my journey in <strong>front-end development</strong>, mastered technologies like 
-<strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>React</strong>, and <strong>TypeScript</strong>, and I’m currently building my expertise in <strong>backend development</strong>.
+<strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Tailwind.CSS</strong>, <strong>React</strong>, and <strong>TypeScript</strong>, and I’m currently building my expertise in <strong>backend development</strong>.
 </p>
 <p>
 I love solving problems, learning new technologies, and contributing to the development community.
