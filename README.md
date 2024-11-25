@@ -1,14 +1,13 @@
 <h1>💻 Welcome to My GitHub Profile!</h1>
 
 <h2>About Me</h2>
-<p>
-Hi! I’m a passionate <strong>Full-Stack Developer in Progress</strong> 🌟. 
-I’ve completed my journey in <strong>front-end development</strong>, mastered technologies like 
-<strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Tailwind.CSS</strong>, <strong>React</strong>, and <strong>TypeScript</strong>, and I’m currently building my expertise in <strong>backend development</strong>.
-</p>
-<p>
-I love solving problems, learning new technologies, and contributing to the development community.
-</p>
+<p>  
+Hi! I’m a passionate <strong>Full-Stack Developer</strong> 🌟.  
+I’ve mastered <strong>front-end development</strong> with technologies like <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Tailwind CSS</strong>, <strong>React</strong>, and <strong>TypeScript</strong>, and expanded my expertise into <strong>backend development</strong> with <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong>.  
+</p>  
+<p>  
+I love solving problems, learning new technologies, and contributing to the development community.  
+</p>  
 
 <hr />
 
