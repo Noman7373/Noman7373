@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 <p>  
-Hi! I’m a passionate <strong>Full-Stack Developer</strong> 🌟.  
+Hi! I'm <strong>Noman Ahmed<\strong> a passionate <strong></strong>Full-Stack Developer</strong> 🌟.  
 I’ve mastered <strong>front-end development</strong> with technologies like <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Tailwind CSS</strong>, <strong>React</strong>, and <strong>TypeScript</strong>, and expanded my expertise into <strong>backend development</strong> with <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong>.  
 </p>  
 <p>  
