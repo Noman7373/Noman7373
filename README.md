@@ -3,7 +3,10 @@
 <h2>About Me</h2>
 <p>  
 Hi! I'm Noman Ahmed a passionate <strong>Full-Stack Developer</strong> 🌟.  
-I’ve mastered <strong>front-end development</strong> with technologies like <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Tailwind CSS</strong>, <strong>React</strong>, and <strong>TypeScript</strong>, and expanded my expertise into <strong>backend development</strong> with <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong>.  
+I’ve mastered <strong>front-end development</strong> with technologies like <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Tailwind CSS</strong>,
+ <strong>Angular</strong>,  <strong>React</strong>, and <strong>TypeScript</strong>, and expanded my expertise into <strong>backend development</strong> with <strong>Node.js</strong>,
+<strong>Nest.js</strong>, 
+  <strong>Express.js</strong>, and <strong>MongoDB</strong>.  
 </p>  
 <p>  
 I love solving problems, learning new technologies, and contributing to the development community.  
